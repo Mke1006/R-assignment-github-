@@ -6,3 +6,5 @@ influences the gaping behaviors of oysters. We are analyzing these
 behavioral responses using a hall effect sensors. 
 
 Oysters are cool!!! - Sierra
+
+Yeah they are!!! -Michaela
